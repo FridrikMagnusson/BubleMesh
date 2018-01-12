@@ -10,6 +10,8 @@ https://people.eecs.berkeley.edu/~sequin/CS285/PAPERS/shimada95bubble.pdf
 
 Development steps
 
+Step 0 - Bestemme sprog - Jeg kan lidt Java(Processing) og noget matlab men vi kan godt prøve noget helt andet gerne C++ eller python.
+
 Step 1 - Make a git - hub
 
 Step 2 - Make an squere area
